@@ -67,20 +67,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  http:
+  leancloud_flutter_plugin:
     dependency: "direct main"
     description:
-      name: http
+      name: leancloud_flutter_plugin
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "0.12.0"
-  http_parser:
-    dependency: transitive
-    description:
-      name: http_parser
-      url: "https://pub.flutter-io.cn"
-    source: hosted
-    version: "3.1.3"
+    version: "0.0.5"
   matcher:
     dependency: transitive
     description:
